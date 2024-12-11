@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidDecember10</string>
+    <string name="ios_course">ios Course</string>
+    <string name="react_native_course">React Native Course</string>
+    <string name="android_course">Android Course</string>
 </resources>
